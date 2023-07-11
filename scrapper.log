@@ -5386,3 +5386,73 @@ INFO:root:log my final result []
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "POST /review HTTP/1.1" 200 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
 INFO:werkzeug:172.18.0.2 - - [11/Feb/2023 17:49:39] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 02:46:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 02:46:46] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 02:46:46] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 02:46:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'bluetoothspeaker', 'Name': 'Arun Kumar', 'Rating': '1', 'CommentHead': 'Absolute rubbish!', 'Comment': 'This products is very very boor not working in Bluetooth device conetivity'}, {'Product': 'bluetoothspeaker', 'Name': 'JABBAR CHOBDAR', 'Rating': '4', 'CommentHead': 'Really Nice', 'Comment': 'Nice product.....Charging time 0 to 80% in around 1.5 hourAndBattery backup nearabout 2.5 hour'}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'Nice quality'}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Very fast delivery 😍😍😍😍🤗🤗🤗 I am so happy very useful speaker for running but sond low'}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Just wow!', 'Comment': 'Good sound .echo also in the speaker'}, {'Product': 'bluetoothspeaker', 'Name': 'Rajbir Singh', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Good sound'}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Fabulous!', 'Comment': 'This product is really good .'}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'Good product small size pocket friendly..The company has made a beautiful product. Please tell me how long it will last. It would be good if you could tell me and the battery backup would be better. The box is pretty good'}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': '1', 'CommentHead': 'Absolute rubbish!', 'Comment': "The speaker is ok but Bajaj card is a fake.pls don't worth money."}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': "This is the best product value for money I enjoy the superb sound  quality 🥰  I'm so happy after bought this product 💞❣️🥰🥰😊☺️"}, {'Product': 'bluetoothspeaker', 'Name': 'Flipkart Customer', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': "This is the best product value for money I enjoy the superb sound  quality 🥰  I'm so happy after bought this product 💞❣️🥰🥰😊☺️"}]
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 02:46:58] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 02:46:59] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 02:46:59] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.5:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 03:23:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 03:23:18] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 03:23:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone12', 'Name': 'Kuldeep  Prakash', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Excellent camera , good performance,average battery'}, {'Product': 'iphone12', 'Name': 'Rupesh Thik', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Awesome Camera'}, {'Product': 'iphone12', 'Name': 'Arjun  Chakravarti ', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Awesome'}, {'Product': 'iphone12', 'Name': 'Najir  Hussain ', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'Awesome camera quality…just love it'}, {'Product': 'iphone12', 'Name': 'Shivam Kengale', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'Go for it'}, {'Product': 'iphone12', 'Name': 'Jaya chandra  Reddy', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'Amazing phone  In love with this phone'}, {'Product': 'iphone12', 'Name': 'Amit Kumar Suwalka', 'Rating': '5', 'CommentHead': 'Awesome', 'Comment': 'Nice camera 📸'}, {'Product': 'iphone12', 'Name': 'Shivam Thakur', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'I am very happy with I phone 12Very Nice Product Thanku Flipkart'}, {'Product': 'iphone12', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': 'Everything is great except the battery life, camera is awesome'}, {'Product': 'iphone12', 'Name': 'Sunita  Yadav', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate'}, {'Product': 'iphone12', 'Name': 'Sunita  Yadav', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'This is the value for money phone. For Flipkart:On time delieveryAlways best serviceFeedback call received after 5 daysApple:One word: SuperbPicture Quality Ultimate'}]
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 03:23:28] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 03:23:28] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 03:23:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:32] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:33] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:33] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:47] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:00:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:07] "[33mGET /apple-touch-icon-120x120-precomposed.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:07] "[33mGET /apple-touch-icon-120x120.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:07] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:07] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:07] "[33mGET /apple-touch-icon-120x120-precomposed.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:08] "[33mGET /apple-touch-icon-120x120.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:08] "[33mGET /apple-touch-icon-precomposed.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:08] "[33mGET /apple-touch-icon.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:01:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'REDMINOTE9', 'Name': 'Mohamed Shajahan', 'Rating': '5', 'CommentHead': 'Excellent', 'Comment': 'Terrific purchase. Nice package wth this beauty. Love you Flipkart❤️'}, {'Product': 'REDMINOTE9', 'Name': 'Sudhir Kumar', 'Rating': '5', 'CommentHead': 'Best in the market!', 'Comment': 'Nice deal'}, {'Product': 'REDMINOTE9', 'Name': 'Krishnendu Deb Raikat', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Nice product'}, {'Product': 'REDMINOTE9', 'Name': 'Rohit  kumar', 'Rating': '3', 'CommentHead': 'Nice', 'Comment': 'Nice phone..'}, {'Product': 'REDMINOTE9', 'Name': 'Balaji', 'Rating': '2', 'CommentHead': 'Not good', 'Comment': 'Camera not well but display is dull and battery is well ...but some software problem is coming... After 6 months uses...'}, {'Product': 'REDMINOTE9', 'Name': 'Subra Banu', 'Rating': '5', 'CommentHead': 'Super!', 'Comment': 'Excellent 👍👌'}, {'Product': 'REDMINOTE9', 'Name': 'Rizwan Ali', 'Rating': '5', 'CommentHead': 'Simply awesome', 'Comment': 'very nice work battery backup nice camera best all system this product very good and service thank you flipkart⭐⭐⭐⭐⭐'}, {'Product': 'REDMINOTE9', 'Name': 'Flipkart Customer', 'Rating': '4', 'CommentHead': 'Wonderful', 'Comment': 'Awesome...very nice pH......selfish camera is not satisfied but rear camera is nice..I love it....and scarlet red colour..just awesome 😊'}, {'Product': 'REDMINOTE9', 'Name': 'Rajmandeep Bhinder', 'Rating': '5', 'CommentHead': 'Classy product', 'Comment': 'Nice Product In This Price...Thanks Flipkart...😊'}, {'Product': 'REDMINOTE9', 'Name': 'ARGHO  MONDAL', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'I just love this product. 😘'}, {'Product': 'REDMINOTE9', 'Name': 'ARGHO  MONDAL', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'I just love this product. 😘'}]
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:02:43] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:02:43] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:02:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
+INFO:root:name
+INFO:root:rating
+INFO:root:No Comment Heading
+INFO:root:'NoneType' object has no attribute 'div'
+INFO:root:log my final result [{'Product': 'iphone11promax', 'Name': 'uttam  sinha', 'Rating': '5', 'CommentHead': 'Highly recommended', 'Comment': 'Battery - more or less 2 daysCamera - can now perform very good in low light (night )Heating- no heating for 15+ daysCharging- Quick charger ( which now comes in box ) charges 1-80 in less than an hour. The next 20 requires next 25 mins or so.'}, {'Product': 'iphone11promax', 'Name': 'arpit patel', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Just Awesome, For Night mode in camera no one can beat Iphone, performance super fast, portraits mono mode just ossm, Even in battery backup is now improved than previous iphone,  in the box ,apple gives Fast charger 👌🏻👌🏻👌🏻'}, {'Product': 'iphone11promax', 'Name': 'Akhil Bhugul', 'Rating': '4', 'CommentHead': 'Good quality product', 'Comment': "impressively Nice......One of the greatest iPhone i ever used ....All was like Never before ...it's just Amazing ...Battery Life is too good ...2 Days with hevy usedCamera also like Apple Quality best ever"}, {'Product': 'iphone11promax', 'Name': 'Siri Chandana Atluri', 'Rating': '5', 'CommentHead': 'Perfect product!', 'Comment': 'I had doubts about getting an iPhone from online stores/e-commerce, but bought this anyway on 24/10 and got it by 28/10. About the iPhone ,well there’s nothing new we could say about apple products- High standards,New iOS updates every year,built quality. In 11 pro max Camera, the new A13 bionic chip,Battery are the highlights. I was never worried about the phone or had any doubts about it’s performance. These are few shots that I’ve taken since I got this iPhone. It’s been  only 2 days so co...'}, {'Product': 'iphone11promax', 'Name': 'Sameer Shaikh', 'Rating': '5', 'CommentHead': 'Worth every penny', 'Comment': 'Great purchase, happily upgraded to iPhone 11 pro max and I’m quite satisfied with the performance of the phone :))'}, {'Product': 'iphone11promax', 'Name': 'Vishal Hasija', 'Rating': '5', 'CommentHead': 'Must buy!', 'Comment': 'It’s a beast, what a device... in love with it'}, {'Product': 'iphone11promax', 'Name': 'Sourabh Shah', 'Rating': '5', 'CommentHead': 'Terrific purchase', 'Comment': 'Nice very good phone'}, {'Product': 'iphone11promax', 'Name': 'Aditya Mani', 'Rating': '5', 'CommentHead': 'Great product', 'Comment': 'The best phone from apple loving it!'}, {'Product': 'iphone11promax', 'Name': 'mahendra raja', 'Rating': '5', 'CommentHead': 'Terrific', 'Comment': 'You can feel premium right from unboxing... rose gold is rich and back glass is Matt finish which is patented by Apple.. fast charger charging 50% in 30 mins and battery life is good as of now ... camera is really a pro feature .. go for it'}, {'Product': 'iphone11promax', 'Name': 'Krupal Patel', 'Rating': '5', 'CommentHead': 'Mind-blowing purchase', 'Comment': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}, {'Product': 'iphone11promax', 'Name': 'Krupal Patel', 'Rating': 'No Rating', 'CommentHead': 'No Comment Heading', 'Comment': 'Superb Apple IPhones 11 pro max i love it. Faster performance, awesome camera. Battery life good.Apple for life'}]
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:02:55] "POST /review HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:02:55] "[33mGET /style.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [12/Jul/2023 04:02:55] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -
